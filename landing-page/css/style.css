@@ -1,0 +1,455 @@
+.headings{
+    background-color:#fffefe;
+    padding:0px 150px 0px 150px;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 500px;
+}
+.sign {
+    border:none;
+  padding:10px 25px 10px 25px;
+  border-radius:10px;
+ 
+}
+.text{
+    padding:100px 0px 0px 0px ;
+}
+.text h1{
+    font-size:50px;
+    font-weight:bold;
+    line-height:55px;
+    font-family:Barlow Condensed;
+    padding-bottom:20px;
+}
+.text p{
+    font-size:19px;
+    color:rgb(84, 72, 55);
+    line-height:29px;
+    font-weight:500;
+    font-family:Montserrat;
+    padding-bottom:25px;
+}
+.get{
+    border:none;
+    background-color:orange;
+    padding:10px 25px 10px 25px;
+    color:white;
+    border-radius:5px;
+    font-size:18px;
+    font-weight:bold;
+    font-family:montserrat;
+}
+.text i{
+    font-size:20px;
+    color:orange;
+    text-decoration:underline;
+    font-family:montserrat;
+    font-weight:500;
+    margin-left:20px;
+}
+.banner-img img{
+    padding:25px 0px 0px 0px ;
+        animation: up-down 2s ease-in-out infinite alternate-reverse both;
+   
+}
+.tools{
+    background-image:url(./../images/shape.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:100%;
+ padding: 0px 0px 50px 0px;
+    margin-top: 100px;
+    text-align:center;
+    
+}
+.tools h1{
+    text-align:center;
+    font-size:45px;
+    font-weight:bold;
+    font-family:Barlow condensed;
+    color:black;
+    line-height:50px;
+}
+.icon-image{
+    padding:0px 60px 0px 60px;
+}
+.icon-image img{
+    width:50%;
+}
+.icon-image h2{
+font-size:20px;
+font-family:Barlow condensed;
+font-weight:bold;
+color:black;
+}
+.icon-image p{
+    font-size:14px;
+    font-family:montserrat;
+    font-weight:500;
+    font-style:normal;
+}
+.up{
+    border:none;
+    text-align:Center;
+    border-radius:5px;
+    background-color:orange;
+    color:white;
+    padding:10px 25px 10px 25px;
+}
+.up:hover{
+    background-color:rgb(227, 153, 14);
+}
+.profesional-text{
+    margin-top:50px;
+    padding:0px 0px 0px 180px;
+}
+.profesional-text h3{
+    font-size:18px;
+    color:rgb(84, 72, 55);
+    font-weight:600;
+    font-family:montserrat;
+    text-transform:capitalize;
+}
+.profesional-text h1{
+    font-size:36px;
+    font-weight:bold;
+    font-family:Barlow condensed;
+    font-style:normal;
+    line-height:45px;
+    color:black;
+}
+.profesional-text p{
+    font-size:16px;
+    font-weight:500;
+    font-family:montserrat;
+    font-style:normal;
+    line-height:25px;
+    color:rgb(84, 72, 55);
+}
+.makers{
+    padding:0px 0px 0px 180px;
+}
+.makers h2{
+    color:black;
+    font-size:18px;
+    font-weight:700;
+    font-style:normal;
+    line-height:22px;
+font-family:montserrat;
+}
+.makers p{
+    font-size:16px;
+    font-weight:500;
+    font-family:montserrat;
+    font-style:normal;
+    line-height:25px;
+    color:rgb(84, 72, 55);
+}
+.validation-image{
+    margin-top:50px;
+    padding:0px 150px 0px 0px;
+}
+.bg-image{
+    margin-top:50px;
+    padding:0px 0px 0px 150px;
+}
+.product-text{
+    margin-top:50px;
+    padding:0px 150px 0px 0px;
+}
+.product-text h2{
+    text-transform:capitalize;
+    font-size:18px;
+    color:rgb(84, 72, 55);
+    font-weight:700;
+    font-family:montserrat;
+}
+.product-text h1{
+    text-transform:capitalize;
+    font-size:36px;
+    color:black;
+    font-weight:bold;
+    margin-bottom:25px;
+}
+.product-text p{
+    font-size:16px;
+    font-weight:500;
+    font-family:montserrat;
+    font-style:normal;
+    line-height:25px;
+    color:rgb(84, 72, 55);
+    margin-bottom:25px;
+}
+.product-text i{
+    background-color:orange;
+    border-radius:50%;
+    color:white;
+}
+.oval{
+    margin-top:50px;
+    background-image:url(./../images/3816386.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   text-align:Center;
+   padding:100px 400px 100px 400px;
+}
+.oval h1{
+     font-size:36px;
+     font-family:Barlow Condensed;
+     font-weight:bold;
+     line-height:44px;
+     color:black;
+     padding-bottom:15px;
+}
+.oval p{
+    font-size:16px;
+    line-height:25px;
+    font-weight:500;
+    font-family:montserrat;
+    color:rgba(86,117,146);
+    text-align:center;
+    padding-bottom:15px;
+}
+.expert{
+    font-size:20px;
+    background-color:orange;
+    border:none;
+    border-radius:5px;
+    padding:10px 15px 10px 15px;
+    color:white;
+    font-family:montserrat;
+    font-weight:500;
+}
+.expert:hover{
+    background-color:rgb(226, 155, 22);
+}
+.marketing{
+    padding:0px 150px 0px 180px;
+    margin-top:50px;
+}
+.marketing h1{
+    font-family:Barlow condensed;
+    font-size:32px;
+    line-height:39px;
+    font-weight:bold;
+    color:black;
+}
+.marketing p{
+    font-family:montserrat;
+    font-size:16px;
+    font-weight:500;
+    line-height:24px;
+    font-style:normal;
+    color:rgb(84, 72, 55);
+    padding-bottom:25px;
+    margin:0px;
+}
+.boxes img{
+    width:100%;
+    padding-bottom:10px;
+}
+.boxes p{
+    font-size:16px;
+    font-family:montserrat;
+    font-weight:500;
+    font-style:normal;
+    color:rgb(84, 72, 55);
+    padding-bottom:10px;
+}
+.boxes h1{
+    font-size:20px;
+    font-weight:bold;
+    line-height:25px;
+    font-family:barlow condensed;
+    font-style:normal;
+    padding-bottom:100px;
+}
+.links h2{
+    font-size:20px;
+    line-height:30px;
+    font-family:barlow condensed;
+    font-style:normal;
+    font-weight:bold;
+    padding-bottom:15px;
+
+}
+.links p{
+    font-size:16px;
+    font-style:normal;
+    font-weight:500;
+    font-family:montserrat;
+    padding-bottom:5px;
+}
+.stuff h2{
+    font-size:20px;
+    line-height:30px;
+    font-family:barlow condensed;
+    font-style:normal;
+    font-weight:bold;
+    padding-bottom:15px;
+}
+.stuff p{
+    font-size:16px;
+    font-style:normal;
+    font-weight:500;
+    font-family:montserrat;
+    padding-bottom:5px;
+}
+.form-input h2{
+    font-size:20px;
+    line-height:30px;
+    font-family:barlow condensed;
+    font-style:normal;
+    font-weight:bold;
+    padding-bottom:15px;
+}
+.now{
+    border:none;
+    background-color:orange;
+    color:white;
+    border-radius:5px;
+    padding:5px 25px 5px 25px;
+    font-size:20px;
+    font-weight:500;
+    font-style:normal;
+    font-family:montserrat;
+
+}
+.now:hover{
+    background-color:rgb(226, 155, 22);
+}
+.last-text{
+    padding:0px 150px 0px 200px;
+}
+.last-text span{
+    text-align:left;
+    margin-left:700px;
+}
+.last-text p{
+    font-size:16px;
+    font-family:montserrat;
+    font-weight:500;
+    font-style:normal;
+    color:rgb(84, 72, 55);
+}
+
+
+
+/*Responsive home page starts*/
+
+/*iphone home starts*/
+   
+@media (max-width:480px) {
+
+    .row{
+      flex-direction: column;
+  }
+  .headings {
+    background-color: #fffefe;
+    padding: 0px 0px 0px 0px;
+}
+.text {
+    padding: 0px 0px 0px 0px;
+}
+.banner-img img {
+    padding: 10px 0px 0px 0px;
+    /* animation: up-down 2s ease-in-out infinite alternate-reverse both; */
+    width: 100%;
+}
+.text h1 {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 35px;
+    font-family: Barlow Condensed;
+    padding-bottom: 20px;
+    margin:0px;
+}
+.text p {
+    font-size: 19px;
+    color: rgb(84, 72, 55);
+    line-height: 29px;
+    font-weight: 500;
+    font-family: Montserrat;
+    padding-bottom: 25px;
+    margin:0px;
+}
+.text i {
+    font-size: 14px;
+    color: orange;
+    text-decoration: underline;
+    font-family: montserrat;
+    font-weight: 500;
+    margin-left:0px;
+}
+.tools {
+    background-image: url(./../images/shape.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 0px 0px 50px 0px;
+    margin-top: 50px;
+    text-align: center;
+}
+.tools h1 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Barlow condensed;
+    color: black;
+    line-height: 35px;
+}
+.icon-image {
+    padding: 0px 5px 0px 5px;
+}
+.profesional-text {
+    margin-top: 50px;
+    padding: 0px 0px 0px 0px;
+}
+.makers {
+    padding: 0px 0px 0px 0px;
+}
+.validation-image img{
+    width:100%;
+}
+.bg-image img{
+    width:100%;
+}
+.product-text {
+    margin-top: 50px;
+    padding: 0px 0px 0px 0px;
+}
+.validation-image {
+    margin-top: 50px;
+    padding: 0px 0px 0px 0px;
+}
+.oval {
+    margin-top: 50px;
+    background-image: url(./../images/3816386.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: Center;
+    padding:0px;
+}
+.marketing {
+    padding: 0px;
+    margin-top: 50px;
+}
+.last-text span {
+    text-align: left;
+    margin-left: 0px;
+}
+.last-text {
+    padding: 0px 0px 0px 0px;
+}
+}
